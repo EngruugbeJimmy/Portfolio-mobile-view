@@ -12,7 +12,7 @@ For this repository, I've created html templates and styling files in order to b
 
 ## Live Demo
 
-[Live Demo Link](https://EngruugbeJimmy.github.io/Portfolio-setup-and-mobile-version-Project/)
+[Live Demo Link](https://EngruugbeJimmy.github.io/Portfolio-mobile-view/)
 
 ### Install
 
@@ -21,13 +21,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:EngruugbeJimmy/Portfolio-setup-and-mobile-version-project.git
+$ git clone git@github.com:EngruugbeJimmy/Portfolio-mobile-view.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Portfolio-setup-and-mobile-version-project.git
+$ cd Portfolio-mobile-view.git
 ```
 
 - Finally, run diplay the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
@@ -37,7 +37,7 @@ $ cd Portfolio-setup-and-mobile-version-project.git
 ### Prerequisites
 
 - IDE to edit and run the code (We use Visual Studio Code 🔥).
-- Git to version control your stages.
+- Git to versionning your work.
 
 
 ### Usage
@@ -48,15 +48,15 @@ $ cd Portfolio-setup-and-mobile-version-project.git
 
 ## Authors
 
-👤 **ABAH JAMES UGBEDEOJO**
+👤 **ABAH James**
 
-- GitHub: [@EngruugbeJimmy] (https://github.com/EngruugbeJimmy/ target="_blank"><img src="stocks/images/github.png" alt="profile link for github)
-- LinkedIn: [@abah-james-ugbede] (https://www.linkedin.com/in/abah-james-ugbede-356982159/)
+- GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
+- LinkedIn: [@Engruugbe](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
 
 
 ## 🤝 Contributing
 
-Open for contributions!
+Contributions, issues, and feature requests are welcome!
 
 
 
@@ -67,6 +67,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Hat tip to anyone whose code was used 🔰
 - Inspiration 💘
 - Microverse program ⚡
+- My standup team 🏹
 - My family's support 🙌

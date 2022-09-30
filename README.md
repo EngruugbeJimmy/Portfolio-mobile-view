@@ -50,8 +50,8 @@ $ cd Portfolio-setup-and-mobile-version-project.git
 
 👤 **ABAH JAMES UGBEDEOJO**
 
-- GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy/ target="_blank"><img src="stocks/images/github.png" alt="profile link for github)
-- LinkedIn: [@abah-james-ugbede](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
+- GitHub: [@EngruugbeJimmy] (https://github.com/EngruugbeJimmy/ target="_blank"><img src="stocks/images/github.png" alt="profile link for github)
+- LinkedIn: [@abah-james-ugbede] (https://www.linkedin.com/in/abah-james-ugbede-356982159/)
 
 
 ## 🤝 Contributing

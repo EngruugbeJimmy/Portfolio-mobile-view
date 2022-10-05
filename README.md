@@ -16,7 +16,7 @@ For this repository, I've created html templates and styling files in order to b
 
 ### Install
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up of this project  and running follow these simple example steps.
 - Open terminal
 - Clone this project by the command: 
 

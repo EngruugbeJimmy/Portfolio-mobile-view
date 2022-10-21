@@ -12,7 +12,7 @@ For this repository, I've created html templates and styling files in order to b
 
 ## Live Demo
 
-[Live Demo Link](https://EngruugbeJimmy.github.io/Portfolio-mobile-view/)
+[Live Demo Link](#)
 
 ### Install
 
@@ -52,6 +52,13 @@ $ cd Portfolio-mobile-view.git
 
 - GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
 - LinkedIn: [@Engruugbe](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
+
+👤 **Engr. Animashaun Fisayo**
+
+- [GitHub](https://github.com/fmanimashaun)
+- [Twitter](https://twitter.com/fmanimashaun)
+- [LinkedIn](https://www.linkedin.com/in/fmanimashaun/)
+- [Website](https://fmanimashaun.com)
 
 
 ## 🤝 Contributing

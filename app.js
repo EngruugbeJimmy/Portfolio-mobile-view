@@ -182,7 +182,7 @@ function popUp(index) {
             <div class="buttons">
               <button type="button" class="live-btn">
                 see live
-                <img src="images/live.png" alt="Twitter"
+                <img src="images/live.png" alt=""
               </button>
               <button type="button" class="live-btn">
                 see source

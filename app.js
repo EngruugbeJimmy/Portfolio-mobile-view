@@ -204,9 +204,3 @@ btns.forEach((btn, index) => {
     popUp(index);
   });
 });
-// Form Validation
-const form = document.getElementById('form');
-const error = document.querySelector('.error');
-const name = document.getElementById('name');
-const email = document.getElementById('email');
-const message = document.getElementById('message');

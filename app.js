@@ -1,14 +1,15 @@
-const hamburger = document.querySelector('#icon');
-const navmenu = document.querySelector('nav');
-hamburger.addEventListener('click', () => {
-  hamburger.classList.toggle('fa-times');
-  navmenu.classList.toggle('nav-toggle');
+const menu = document.querySelector('#icon');
+const navbar = document.querySelector('nav');
+menu.addEventListener('click', () => {
+  menu.classList.toggle('fa-times');
+  navbar.classList.toggle('nav-toggle');
 });
 
 window.addEventListener('scroll', () => {
-  hamburger.classList.remove('fa-times');
-  navmenu.classList.remove('nav-toggle');
+  menu.classList.remove('fa-times');
+  navbar.classList.remove('nav-toggle');
 });
+
 const cards = [
   {
     image: 'images/budget.png',
@@ -181,7 +182,7 @@ function popUp(index) {
             <div class="buttons">
               <button type="button" class="live-btn">
                 see live
-                <i class="fas fa-check"></i>
+                <img src="images/live.png" alt="Twitter"
               </button>
               <button type="button" class="live-btn">
                 see source
@@ -203,3 +204,9 @@ btns.forEach((btn, index) => {
     popUp(index);
   });
 });
+// Form Validation
+const form = document.getElementById('form');
+const error = document.querySelector('.error');
+const name = document.getElementById('name');
+const email = document.getElementById('email');
+const message = document.getElementById('message');

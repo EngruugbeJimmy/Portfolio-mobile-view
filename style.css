@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap");
 
 @media screen and (max-width: 992px) and (min-width: 601px),
   (min-width: 993px) {
@@ -14,7 +14,7 @@
     background: #fff;
     height: 916px;
     width: 99vmax;
-    background-image: url('images/Header-bg.png');
+    background-image: url("images/Header-bg.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
@@ -44,7 +44,7 @@
   }
 
   .navbar .logo {
-    font-family: 'Poppins', 'Times New Roman', Times, serif;
+    font-family: "Poppins", "Times New Roman", Times, serif;
     color: var(--primary);
     font-size: 18px;
     line-height: 20px;
@@ -72,7 +72,7 @@
     display: flex;
     flex-direction: row;
     gap: 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -90,7 +90,7 @@
   }
 
   .ul-menu li a {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -101,7 +101,7 @@
 
   .first-title {
     margin: 280px auto auto 150px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
@@ -114,7 +114,7 @@
 
   .description {
     margin: 12px 260px auto 150px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -128,7 +128,7 @@
   }
 
   .connect {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -195,7 +195,7 @@
     height: 36px;
     left: 0;
     top: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
@@ -217,7 +217,7 @@
   }
 
   .canopy {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -230,7 +230,7 @@
   }
 
   .light {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -248,7 +248,7 @@
     height: 76px;
     left: 0;
     top: 92px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -292,7 +292,7 @@
     height: 16px;
     left: 12px;
     top: 4px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -311,7 +311,7 @@
     height: 16px;
     left: 12px;
     top: 4px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -330,7 +330,7 @@
     height: 16px;
     left: 12px;
     top: 4px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -363,7 +363,7 @@
 
   .font-4 {
     position: static;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -399,7 +399,7 @@
 
   .font-4:hover {
     position: static;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -434,7 +434,7 @@
 
   .font-4:visited {
     position: static;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -469,7 +469,7 @@
 
   .font-4:disabled {
     position: static;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -490,7 +490,7 @@
     height: 16px;
     left: 12px;
     top: 4px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -635,7 +635,7 @@
     height: 101px;
     left: 0;
     top: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -655,7 +655,7 @@
     height: auto;
     left: 0;
     top: 113px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -673,7 +673,7 @@
     height: 24px;
     left: 0;
     top: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -705,7 +705,7 @@
     height: 24px;
     left: 12px;
     top: 12px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -745,7 +745,7 @@
     height: 24px;
     left: 12px;
     top: 12px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -784,7 +784,7 @@
     height: 24px;
     left: 12px;
     top: 12px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -822,7 +822,7 @@
     height: 24px;
     left: 12px;
     top: 12px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -878,7 +878,7 @@
 
   .lang {
     top: calc(50% - 24px / 2);
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -927,7 +927,7 @@
   }
 
   .langu {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -956,7 +956,7 @@
     box-sizing: border-box;
     padding: 103px 24px 8px 24px;
     border-radius: 76px 0 0 0;
-    background-image: url('images/fotb.png');
+    background-image: url("images/fotb.png");
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -970,7 +970,7 @@
   }
 
   .error {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -980,7 +980,7 @@
   }
 
   .first-title-3 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -999,7 +999,7 @@
   }
 
   .description-4 {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     width: 569px;
     height: 102px;
     font-style: normal;
@@ -1021,7 +1021,7 @@
     height: 48px;
     margin: 10px 0 10px 0;
     padding-left: 20px;
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
@@ -1040,7 +1040,7 @@
     padding-left: 20px;
     padding-top: 10px;
     margin-top: 10px;
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -1066,7 +1066,7 @@
   }
 
   .font-6 {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -1092,7 +1092,7 @@
   }
 
   .font-6:hover {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -1118,7 +1118,7 @@
   }
 
   .font-6:visited {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -1144,7 +1144,7 @@
   }
 
   .font-6:disabled {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -1178,7 +1178,7 @@
 
   body::before {
     display: block;
-    content: '';
+    content: "";
     height: 60px;
   }
 
@@ -1222,7 +1222,7 @@
 
   nav ul li a {
     margin-bottom: 40px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 600;
@@ -1267,7 +1267,7 @@
 
   .fa-times::before,
   .fa-xmark::before {
-    content: '\f00d';
+    content: "\f00d";
     color: #fff;
   }
 
@@ -1309,7 +1309,7 @@
     height: 150px;
     left: 24px;
     top: 114px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -1329,7 +1329,7 @@
     height: 146px;
     left: 24px;
     top: 276px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -1347,7 +1347,7 @@
     height: 24px;
     left: 0;
     top: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -1373,7 +1373,7 @@
   }
 
   .container-1 {
-    background-image: url('images/header-shapes-mobile.png');
+    background-image: url("images/header-shapes-mobile.png");
     background-repeat: no-repeat;
     padding: 114px 24px 25px 24px;
     height: 604px;
@@ -1439,7 +1439,7 @@
     height: auto;
     left: 0;
     top: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
@@ -1466,7 +1466,7 @@
   }
 
   .canopy {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -1479,7 +1479,7 @@
   }
 
   .light {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -1497,7 +1497,7 @@
     height: auto;
     left: 0;
     top: 92px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -1541,7 +1541,7 @@
     height: 16px;
     left: 12px;
     top: 4px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -1560,7 +1560,7 @@
     height: 16px;
     left: 12px;
     top: 4px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -1579,7 +1579,7 @@
     height: 16px;
     left: 12px;
     top: 4px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -1616,7 +1616,7 @@
 
   .font-4 {
     position: static;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -1652,7 +1652,7 @@
 
   .font-4:hover {
     position: static;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -1687,7 +1687,7 @@
 
   .font-4:visited {
     position: static;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -1722,7 +1722,7 @@
 
   .font-4:disabled {
     position: static;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -1811,7 +1811,7 @@
 
   .container-3 {
     background: #f7f7f9;
-    background-image: url('images/Base-about-myself.png');
+    background-image: url("images/Base-about-myself.png");
     width: 375px;
     height: 1263px;
   }
@@ -1838,7 +1838,7 @@
     height: 101px;
     left: 0;
     top: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -1858,7 +1858,7 @@
     height: 144px;
     left: 0;
     top: 113px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -1880,7 +1880,7 @@
     height: 24px;
     left: 0;
     top: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -1912,7 +1912,7 @@
     height: 24px;
     left: 12px;
     top: 12px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -1952,7 +1952,7 @@
     height: 24px;
     left: 12px;
     top: 12px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -1991,7 +1991,7 @@
     height: 24px;
     left: 12px;
     top: 12px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -2029,7 +2029,7 @@
     height: 24px;
     left: 12px;
     top: 12px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -2083,7 +2083,7 @@
 
   .lang {
     top: calc(50% - 24px / 2);
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -2124,11 +2124,11 @@
   }
 
   .js {
-    padding: 9px 9.62px 12px;
+    padding: 9px 9.72px 12px;
   }
 
   .langu {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -2164,7 +2164,7 @@
     box-sizing: border-box;
     padding: 103px 24px 8px 24px;
     border-radius: 76px 0 0 0;
-    background-image: url('images/contact.png');
+    background-image: url("images/contact.png");
     background-repeat: no-repeat;
     background-position: right 21px;
     background-size: auto;
@@ -2173,7 +2173,7 @@
   }
 
   .error {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -2183,7 +2183,7 @@
   }
 
   .first-title-3 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -2202,7 +2202,7 @@
   }
 
   .description-4 {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     width: 327px;
     height: 102px;
     font-style: normal;
@@ -2229,7 +2229,7 @@
     border-radius: 8px;
     margin: 10px 0 10px 0;
     padding-left: 20px;
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
@@ -2251,7 +2251,7 @@
     padding-left: 20px;
     padding-top: 10px;
     margin-top: 10px;
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -2273,7 +2273,7 @@
   }
 
   .font-6 {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -2299,7 +2299,7 @@
   }
 
   .font-6:hover {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -2325,7 +2325,7 @@
   }
 
   .font-6:visited {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -2351,7 +2351,7 @@
   }
 
   .font-6:disabled {
-    font-family: 'poppins', sans-serif;
+    font-family: "poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;

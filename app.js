@@ -222,6 +222,7 @@ form.addEventListener('submit', (e) => {
   }
 });
 
+//local storage
 let formLocal = { name: '', email: '', message: '' };
 if (localStorage.formLocal) {
   formLocal = JSON.parse(localStorage.formLocal);

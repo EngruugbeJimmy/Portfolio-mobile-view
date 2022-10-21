@@ -182,11 +182,11 @@ function popUp(index) {
             <div class="buttons">
               <button type="button" class="live-btn">
                 see live
-                <img src="images/live.png" alt=""
+                <img src="images/Icon.png" alt="live"
               </button>
               <button type="button" class="live-btn">
                 see source
-                <i class="fab fa-github"></i>
+                <img src="images/github.png" alt="live"
               </button>
             </div>
           </div>

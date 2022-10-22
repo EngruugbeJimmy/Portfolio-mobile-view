@@ -71,7 +71,7 @@ showLanguage.addEventListener('click', () => {
   const showFrame = showFrameworks.querySelector('.show');
   const hideSk = showSkills.querySelector('.hide');
   const showSk = showSkills.querySelector('.show');
-  if(hide.style.display !== 'none'){
+  if (hide.style.display !== 'none') {
     hide.style.display = 'none';
     show.style.display = 'block';
     programmes.style.display = 'none';
@@ -91,11 +91,11 @@ showLanguage.addEventListener('click', () => {
 showFrameworks.addEventListener('click', () => {
   const hide = showFrameworks.querySelector('.hide');
   const show = showFrameworks.querySelector('.show');
-  const hideProgram =showLanguage.querySelector('.hide');
+  const hideProgram = showLanguage.querySelector('.hide');
   const showProgram = showLanguage.querySelector('.show');
   const hideSk = showSkills.querySelector('.hide');
   const showSk = showSkills.querySelector('.show');
-  if(hide.style.display !== 'none'){
+  if (hide.style.display !== 'none'){
     hide.style.display = 'none';
     show.style.display = 'block';
     frameworks.style.display = 'none';
@@ -115,11 +115,11 @@ showFrameworks.addEventListener('click', () => {
 showSkills.addEventListener('click', () => {
   const hide = showSkills.querySelector('.hide');
   const show = showSkills.querySelector('.show');
-  const hideProgram =showLanguage.querySelector('.hide');
+  const hideProgram = showLanguage.querySelector('.hide');
   const showProgram = showLanguage.querySelector('.show');
   const hideFrame = showFrameworks.querySelector('.hide');
   const showFrame = showFrameworks.querySelector('.show');
-  if(hide.style.display !== 'none'){
+  if (hide.style.display !== 'none') {
     hide.style.display = 'none';
     show.style.display = 'block';
     skillsCards.style.display = 'none';
@@ -135,8 +135,8 @@ showSkills.addEventListener('click', () => {
     hideFrame.style.display = 'none';
   }
 });
-document.addEventListener('click', event => {
+document.addEventListener('click', (event) => {
   if (event.target.matches('button')) {
-    event.target.focus()
+    event.target.focus();
   }
-})
+});

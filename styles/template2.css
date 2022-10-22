@@ -422,9 +422,7 @@ footer h3:hover {
   justify-content: space-between;
 }
 
-.spec_name div { 
-  margin-right: 24px;
-}
+.spec_name div {margin-right: 24px;}
  
 .spec_name div img { 
   vertical-align: middle;

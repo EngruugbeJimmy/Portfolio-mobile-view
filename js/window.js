@@ -2,7 +2,7 @@ const projects = {
   p22: {
     name: 'Wishyacht',
     description: "In physical shop retail, the merchant don't has options which are available in e-commerce shop, that can help to identify visitor and provide customized visit for him in order to optimize the chance to his conversion to buy. This project, uses face recognition to help merchant get history informations about each new visitor, which can help to provide him a customized and guided visit, therefore optimize incomes of the shop.",
-    img: 'statics/images/wishyatch.png',
+    img: 'statics/images/wishyacht.png',
     technolgies: ['React','Redux', 'API REST', 'Javascript'],
     linkToLiveVersion: '#',
     linkToSource: '#',
@@ -40,7 +40,7 @@ const projects = {
     description: 'CommonLit, Inc., is a nonprofit education technology organization serving over 20 million teachers and students with free digital reading and writing lessons for grades 3-12. Together with Georgia State University, an R1 public research university in Atlanta, they are challenging Kagglers to improve readability rating methods. In this competition, we had built algorithms to rate the complexity of reading passages for grade 3-12 classroom use. To accomplish this, we had used state of the art machine learning tools with a dataset that includes readers from a wide variety of age groups and a large collection of texts taken from various domains.',
     img: 'statics/images/commonlit-readability-prize.jpg',
     technolgies: ['Python', 'Pytorch', 'LSTM','CNN','Bert','Roberta','LGBM','SVM'],
-    linkToLiveVersion: 'https://www.kaggle.com/c/commonlitreadabilityprize/code?competitionId=25914&sortBy=dateRun&tab=profile',
+    linkToLiveVersion: '#',
     linkToSource: '#',
     generalInf: ['CommonLit', 'Data scientist competitor', 2021],
   },

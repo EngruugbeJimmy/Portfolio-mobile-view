@@ -395,7 +395,7 @@ footer h3:hover {
   align-self: baseline;
 }
 
-#my_resume:hover {background-color: #6070ff;}
+#my_resume:hover { background-color: #6070ff; }
 
 #my_skills {
   display: flex;
@@ -420,11 +420,9 @@ footer h3:hover {
   justify-content: space-between;
 }
 
-.spec_name div {margin-right: 24px;}
+.spec_name div { margin-right: 24px; }
  
-.spec_name div img { 
-  vertical-align: middle;
- }
+.spec_name div img { vertical-align: middle; }
 
 .counter img:hover {
   border: 3px solid #18a0fa;
@@ -918,7 +916,7 @@ span {
   .spec_name { 
     justify-content: space-between;
     width: 100%;
-   }
+  }
 
   #programmes {
     flex-direction: row;

@@ -95,7 +95,7 @@ showFrameworks.addEventListener('click', () => {
   const showProgram = showLanguage.querySelector('.show');
   const hideSk = showSkills.querySelector('.hide');
   const showSk = showSkills.querySelector('.show');
-  if (hide.style.display !== 'none'){
+  if (hide.style.display !== 'none') {
     hide.style.display = 'none';
     show.style.display = 'block';
     frameworks.style.display = 'none';

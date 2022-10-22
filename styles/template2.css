@@ -70,6 +70,16 @@ body {
   margin: 0 24px;
 }
 
+.frameworks-skills .pro p {
+  font-family: Poppins, sans-serif !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 15px !important;
+  line-height: 20px !important;
+  color: #253858 !important;
+  margin-left: 15px !important;
+}
+
 #home_presentation p {
   font-family: Poppins, sans-serif;
   font-weight: normal;
@@ -173,11 +183,6 @@ footer h3:hover {
   text-decoration: underline;
   text-decoration-color: #18a0fa;
   text-decoration-thickness: 3px;
-}
-
-.counter img:hover {
-  border: 3px solid #18a0fa;
-  border-radius: 50%;
 }
 
 .project_image {
@@ -417,9 +422,15 @@ footer h3:hover {
   justify-content: space-between;
 }
 
-.spec_name div { margin-right: 24px; } 
+.spec_name div { margin-right: 24px;
+} 
 
 .spec_name div img { vertical-align: middle; }
+
+.counter img:hover {
+  border: 3px solid #18a0fa;
+  border-radius: 50%;
+}
 
 #programmes {
   display: flex;
@@ -502,20 +513,10 @@ footer h3:hover {
   height: 1px;
 }
 
-.frameworks-skills .pro p {
-  font-family: Poppins, sans-serif !important;
-  font-style: normal !important;
-  font-weight: 500 !important;
-  font-size: 15px !important;
-  line-height: 20px !important;
-  color: #253858 !important;
-  margin-left: 15px !important;
-}
-
 #programmes .pro p {
   font-family: Poppins, sans-serif;
   font-style: normal;
-  font-weight: 500 ;
+  font-weight: 500;
   font-size: 15px;
   line-height: 20px;
   color: #253858;
@@ -717,7 +718,10 @@ footer h3:hover {
   margin-left: 0;
   color: #344563;
 }
-.pop-header-description {font-family: Poppins, sans-serif;}
+
+.pop-header-description {
+  font-family: Poppins, sans-serif;
+}
 
 span {
   font-family: Poppins, sans-serif;
@@ -771,6 +775,22 @@ span {
     justify-content: space-between;
     min-width: 190px;
     margin-top: 30px;
+  }
+  
+  .skills li {
+    background-color: #ebebfe;
+    border-radius: 25%;
+    margin-right: 10px;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #6070ff;
+    padding: 5px 0;
+    list-style: none;
+    text-align: center;
+    flex: 1;
   }
 
   #nav .internal-link li {
@@ -853,7 +873,7 @@ span {
   }
 
   #general_inf_1 {
-    grid-column: 2 / 1 span;
+    grid-column: 2 / 2 span;
   }
 
   .project footer .external_link {
@@ -881,7 +901,7 @@ span {
     margin-left: 16px;
     align-self: center;
   }
-
+  
   #general_inf_3 {
     grid-column: 2 / 1 span;
   }
@@ -947,7 +967,7 @@ span {
     align-items: center;
   }
   
-  .pro p{
+  .pro p {
     font-family: Poppins, sans-serif !important;
     font-style: normal !important;
     font-weight: 500 !important;
@@ -1038,22 +1058,6 @@ span {
     justify-content: flex-start;
     padding-left: 0;
     margin-left: 0;
-  }
-  
-  .skills li {
-    background-color: #ebebfe;
-    border-radius: 25%;
-    margin-right: 10px;
-    font-family: Poppins, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 16px;
-    color: #6070ff;
-    padding: 5px 0;
-    list-style: none;
-    text-align: center;
-    flex: 1;
   }
   
   #my_skills p {

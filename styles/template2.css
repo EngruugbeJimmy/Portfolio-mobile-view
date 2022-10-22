@@ -125,7 +125,6 @@ footer h3:hover {
   text-decoration-color: #23a3fa;
 }
 
-
 #general_inf {
   display: flex;
   font-family: Poppins, sans-serif;
@@ -337,7 +336,6 @@ footer h3:hover {
   align-items: flex-end;
 }
 
-
 #presentation {
   font-family: Poppins, sans-serif;
   font-style: normal;
@@ -419,8 +417,6 @@ footer h3:hover {
   justify-content: space-between;
 }
 
-
-
 .spec_name div { margin-right: 24px; } 
 
 .spec_name div img { vertical-align: middle; }
@@ -450,7 +446,6 @@ footer h3:hover {
   margin-bottom: 0;
   margin-top: 0;
 }
-
 
 .pro {
   list-style: none;
@@ -495,7 +490,6 @@ footer h3:hover {
   flex-direction: column;
 }
 
-
 #sk div { margin-top: 7px; }
 
 #l2 {
@@ -506,6 +500,16 @@ footer h3:hover {
 #l2 hr {
   background: #dfe1e6;
   height: 1px;
+}
+
+.frameworks-skills .pro p {
+  font-family: Poppins, sans-serif !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 15px !important;
+  line-height: 20px !important;
+  color: #253858 !important;
+  margin-left: 15px !important;
 }
 
 #programmes .pro p {
@@ -527,16 +531,6 @@ footer h3:hover {
   line-height: 20px;
   color: #253858;
   margin-left: 15px;
-}
-
-.frameworks-skills .pro p {
-  font-family: Poppins, sans-serif !important;
-  font-style: normal !important;
-  font-weight: 500 !important;
-  font-size: 15px !important;
-  line-height: 20px !important;
-  color: #253858 !important;
-  margin-left: 15px !important;
 }
 
 .final_wrap {
@@ -723,7 +717,7 @@ footer h3:hover {
   margin-left: 0;
   color: #344563;
 }
-.pop-header-description {}
+.pop-header-description {font-family: Poppins, sans-serif;}
 
 span {
   font-family: Poppins, sans-serif;
@@ -761,7 +755,7 @@ span {
   }
 
   header #nav .logo {
-    /*margin-right: 30%;*/
+    /* margin-right: 30%; */
     font-family: Poppins, sans-serif;
     font-weight: bold;
     font-size: 18px;
@@ -846,8 +840,7 @@ span {
     margin-left: 10%;
     grid-column-gap: 20px;
     margin-bottom: 100px;
-    
-  }
+    }
 
   #general_inf {
     grid-column: 2 / 1 span;
@@ -892,9 +885,7 @@ span {
   #general_inf_3 {
     grid-column: 2 / 1 span;
   }
-
- 
-
+  
   #about_me {
     display: grid;
     grid-template-columns: 40% 60%;
@@ -922,6 +913,7 @@ span {
     width: 100%;
     height: 300px;
   }
+  
   .spec_name { 
     justify-content: space-between;
     width: 100%;
@@ -972,6 +964,7 @@ span {
     background: #dfe1e6;
     height: 1px;
   }
+  
   #sk { justify-content: space-between; }
 
   .wrap {
@@ -1038,6 +1031,7 @@ span {
     width: 65%;
     margin-right: 5%;
   }
+
   .skills {
     display: flex;
     align-items: baseline;
@@ -1061,6 +1055,7 @@ span {
     text-align: center;
     flex: 1;
   }
+  
   #my_skills p {
     align-self: center;
   }

@@ -422,10 +422,13 @@ footer h3:hover {
   justify-content: space-between;
 }
 
-.spec_name div { margin-right: 24px;
+.spec_name div { 
+  margin-right: 24px;
 } 
 
-.spec_name div img { vertical-align: middle; }
+.spec_name div img { 
+  vertical-align: middle;
+ }
 
 .counter img:hover {
   border: 3px solid #18a0fa;
@@ -776,7 +779,7 @@ span {
     min-width: 190px;
     margin-top: 30px;
   }
-  
+
   .skills li {
     background-color: #ebebfe;
     border-radius: 25%;
@@ -876,12 +879,6 @@ span {
     grid-column: 2 / 2 span;
   }
 
-  .project footer .external_link {
-    margin-left: 0;
-    width: 18%;
-    padding: 2% 0;
-  }
-
   #general_inf_2 {
     grid-column: 2 / 1 span;
   }
@@ -905,7 +902,7 @@ span {
   #general_inf_3 {
     grid-column: 2 / 1 span;
   }
-  
+
   #about_me {
     display: grid;
     grid-template-columns: 40% 60%;
@@ -918,11 +915,17 @@ span {
     margin-right: 0;
   }
 
-  .data-inf h1 { margin-bottom: 0; }
+  .data-inf h1 { 
+    margin-bottom: 0; 
+  }
 
-  #profile_link h2 { margin-bottom: 0; }
+  #profile_link h2 { 
+    margin-bottom: 0; 
+  }
 
-  #profile_link ul { margin-top: 8px; }
+  #profile_link ul { 
+    margin-top: 8px;
+   }
 
   #presentation { margin-bottom: 0; }
 
@@ -978,14 +981,17 @@ span {
     margin-top: 15px !important;
   }
 
-  #frameworks { justify-content: space-between; }
+  #frameworks { 
+    justify-content: space-between;
+  }
 
   #l1 hr {
     background: #dfe1e6;
     height: 1px;
   }
   
-  #sk { justify-content: space-between; }
+  #sk { justify-content: space-between; 
+  }
 
   .wrap {
     justify-content: center;

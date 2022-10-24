@@ -4,7 +4,6 @@
 
 For this repository, I've created html templates and styling files in order to built a responsive portfolio ,  which can help to easy explorate  profiles from differents devices.
 
-![home_page](https://github.com/Taher-web-dev/Portfolio-setup-and-mobile-version-skeleton/blob/work_about_myself/statics/images/screenshot_home_page.png)
 
 ## Built With 🔨
 
@@ -50,10 +49,10 @@ $ cd Portfolio-setup-and-mobile-version-skeleton.git
 
 ## Authors
 
-👤 **Taher Haggui**
+👤 **ABAH JAMES**
 
-- GitHub: [@TaherHaggui](https://github.com/Taher-web-dev)
-- LinkedIn: [@TaherHaggui](https://www.linkedin.com/in/taher-haggui-66b5a6198/)
+- GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
+- LinkedIn: [@abah-james-ugbede](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
 
 
 ## 🤝 Contributing

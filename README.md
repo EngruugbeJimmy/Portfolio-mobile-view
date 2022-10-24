@@ -4,6 +4,8 @@
 
 For this repository, I've created html templates and styling files in order to built a responsive portfolio ,  which can help to easy explorate  profiles from differents devices.
 
+![home_page](https://github.com/Taher-web-dev/Portfolio-setup-and-mobile-version-skeleton/blob/work_about_myself/statics/images/screenshot_home_page.png)
+
 ## Built With 🔨
 
 - HTML
@@ -12,22 +14,22 @@ For this repository, I've created html templates and styling files in order to b
 
 ## Live Demo
 
-[Live Demo Link](https://EngruugbeJimmy.github.io/Portfolio-mobile-view/)
+[Live Demo Link](https://taher-web-dev.github.io/Portfolio-setup-and-mobile-version-skeleton/)
 
 ### Install
 
-To get a local copy up of this project  and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps.
 - Open terminal
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:EngruugbeJimmy/Portfolio-mobile-view.git
+$ git clone git@github.com:Taher-web-dev/Portfolio-setup-and-mobile-version-skeleton.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Portfolio-mobile-view.git
+$ cd Portfolio-setup-and-mobile-version-skeleton.git
 ```
 
 - Finally, run diplay the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
@@ -48,10 +50,10 @@ $ cd Portfolio-mobile-view.git
 
 ## Authors
 
-👤 **ABAH James**
+👤 **Taher Haggui**
 
-- GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
-- LinkedIn: [@Engruugbe](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
+- GitHub: [@TaherHaggui](https://github.com/Taher-web-dev)
+- LinkedIn: [@TaherHaggui](https://www.linkedin.com/in/taher-haggui-66b5a6198/)
 
 
 ## 🤝 Contributing

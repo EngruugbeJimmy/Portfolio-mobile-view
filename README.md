@@ -13,7 +13,7 @@ For this repository, I've created html templates and styling files in order to b
 
 ## Live Demo
 
-[Live Demo Link](https://taher-web-dev.github.io/Portfolio-setup-and-mobile-version-skeleton/)
+[Live Demo Link](https://engruugbejimmy.github.io/Portfolio-mobile-view/)
 
 ### Install
 

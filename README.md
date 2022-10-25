@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/Portfolio-setup-and-mobile-version-skeleton.git
+$ git clone git@github.com:EngruugbeJimmy/Portfolio-mobile-view.git
 ```
 
 - Then go to the main folder using the next command:
